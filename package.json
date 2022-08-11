@@ -1,0 +1,28 @@
+{
+  "name": "node-hw-1",
+  "version": "1.0.0",
+  "description": "zadanie 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krytianf06/Node-HW-1.git"
+  },
+  "author": "KrystianF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krytianf06/Node-HW-1/issues"
+  },
+  "homepage": "https://github.com/Krytianf06/Node-HW-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "commander": "^9.4.0",
+    "nanoid": "^4.0.0",
+    "yargs": "^17.5.1"
+  }
+}
